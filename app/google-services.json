@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "953119473288",
+    "project_id": "mydata-860d7",
+    "storage_bucket": "mydata-860d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953119473288:android:c950a13259e5bf98f0e93d",
+        "android_client_info": {
+          "package_name": "com.firstapp.kontaku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953119473288-o773ktckif18h7n4imf4e117eoedajlf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstapp.kontaku",
+            "certificate_hash": "e15eaf1a9cd03b9eea4debe51a549f471f9a78f7"
+          }
+        },
+        {
+          "client_id": "953119473288-tufagm9e3s9fh6bnvrcv5hcghvqqimtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdVjUrbPHpkSKIAGk-DY6STZGqGApb3WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953119473288-tufagm9e3s9fh6bnvrcv5hcghvqqimtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
